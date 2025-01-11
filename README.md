@@ -9,6 +9,8 @@ Soy [juan-ma526](https://github.com/juan-ma526)！Soy FullStack Developer 👨�
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-ma526&show_icons=true&theme=tokyonight&hide_border=true">
 
+
+
 ## 🧐 Acerca de mi
 
 <!-- 👨‍💻 My blog: http://yaronzz.top -->
@@ -36,3 +38,7 @@ Soy [juan-ma526](https://github.com/juan-ma526)！Soy FullStack Developer 👨�
         <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
         <code><img height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
     </div>
+
+## Mis contribuciones:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juan-ma526&theme=dark)](https://git.io/streak-stats)
