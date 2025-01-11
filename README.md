@@ -1,21 +1,17 @@
-# Hola！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Hi！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-Soy [juan-ma526](https://github.com/juan-ma526)！Soy FullStack Developer 👨‍💻 a quien le encanta codear, aprender nuevas tecnologias, y la musica.
+Soy [juan-ma526](https://github.com/juan-ma526)！I'm a FullStack Developer,👨‍💻 more Frontend oriented who loves to code, learn new technologies, solve problems and music.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmperez675@gmail.com)](mailto:jmperez675@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-martin-perez-2ba243246)](https://www.linkedin.com/in/juan-martin-perez-2ba243246)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juan-ma526)](https://github.com/juan-ma526)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juan-ma526)
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-ma526&show_icons=true&theme=tokyonight&hide_border=true">
-
-
-
-## 🧐 Acerca de mi
+## 🧐 About me: 
 
 <!-- 👨‍💻 My blog: http://yaronzz.top -->
-- 📫 Como contactarme: jmperez675@gmail.com
-- 🌱 Lenguajes y herramientas: 
+- 📫 How to contact me: jmperez675@gmail.com
+- 🌱 Languages and tools: 
 
     <div>
         <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -37,8 +33,11 @@ Soy [juan-ma526](https://github.com/juan-ma526)！Soy FullStack Developer 👨�
         <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
         <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
         <code><img height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+         <code><img height="30" src="https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"></code>
+        <code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
     </div>
 
 ## Mis contribuciones:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juan-ma526&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=juan-ma526&theme=dark)](https://git.io/streak-stats)
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-ma526&show_icons=true&theme=tokyonight&hide_border=true">
