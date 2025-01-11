@@ -7,6 +7,9 @@ Soy [juan-ma526](https://github.com/juan-ma526)！I'm a FullStack Developer,👨
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juan-ma526)](https://github.com/juan-ma526)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juan-ma526)
 
+
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-ma526&show_icons=true&theme=tokyonight&hide_border=true">
+
 ## 🧐 About me: 
 
 <!-- 👨‍💻 My blog: http://yaronzz.top -->
@@ -40,4 +43,4 @@ Soy [juan-ma526](https://github.com/juan-ma526)！I'm a FullStack Developer,👨
 ## Mis contribuciones:
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=juan-ma526&theme=dark)](https://git.io/streak-stats)
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-ma526&show_icons=true&theme=tokyonight&hide_border=true">
+
